@@ -1,5 +1,5 @@
 # python_games
-simple games I modified for practice
+simple games I wrote for practice
 
 sideway shooter - a ship that can move up and down & fire bullets horizontally 
 
