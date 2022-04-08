@@ -10,3 +10,5 @@ star - a grid of stars with random patterns of appearance on the screen
 raindrop - a grid of raindrops fall steadily on the screen (a new row of raindrops reappears on top of screen)
 
 catch - pikachu catching the ball falling from the top of screen
+
+refined "catch the ball" game - hit the play button and play the game: pikachu has 3 times to catch the row of falling balls
