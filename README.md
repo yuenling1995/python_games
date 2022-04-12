@@ -3,6 +3,8 @@ simple games I wrote for practice
 
 alien invasion - the classic arcade game with multiple game elements: ship shoot bullets to shot alien fleets and level up the game
 
+refined catch the balls - same catch game with more refined game elements (game level, current score, highest score, etc.)
+
 sideway shooter - a ship that can move up and down & fire bullets horizontally 
 
 rocket - a rocket that can be up/down/left/right with arrow keypresses
