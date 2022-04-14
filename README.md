@@ -22,8 +22,11 @@ hit the target - (has play button) with a green target moving up and down on the
 
 
 
-##############################################The Big Book of Small Python Projects##################################################################
+
+
+**The Big Book of Small Python Projects**
 This book contains 81 small python peojects, I'm including my version here for practice.
 
 project 1 - Bagels (guess random 3-digit number with 10 chances)
+
 project 2- Birthday Paradox (check the percentage of 2 people share the same birthday in different group sizes)
