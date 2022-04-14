@@ -18,3 +18,12 @@ catch - pikachu catching the ball falling from the top of screen
 refined "catch the ball" game - hit the play button and play the game: pikachu can shoot bullets and has 3 chances to catch the row of falling balls
 
 hit the target - (has play button) with a green target moving up and down on the right of screen, character (on the left) shoot bullets and attempt to hit the target
+
+
+
+
+##############################################The Big Book of Small Python Projects##################################################################
+This book contains 81 small python peojects, I'm including my version here for practice.
+
+project 1 - Bagels (guess random 3-digit number with 10 chances)
+project 2- Birthday Paradox (check the percentage of 2 people share the same birthday in different group sizes)
