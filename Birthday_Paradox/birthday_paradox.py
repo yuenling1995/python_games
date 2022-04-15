@@ -26,7 +26,7 @@ This program does a Monte Carlo simulation (that is, repeated random simulations
 	# find if there's match birthdays & display results
 	duplicates = bf.find_match_bday(birthdays)
 
-	if duplicates != 0:
+	if duplicates != "None":
 		print("In this simulation, \n")
 		print("Multiple people share the same birthdays on:")
 		for dup in duplicates:
@@ -43,9 +43,8 @@ This program does a Monte Carlo simulation (that is, repeated random simulations
 	print("Let's run another 100,000 simulations.")
 
 	# find the probability of sharing same birthdays in 100,000 simulations
-	find_match = bf.run_simulations(num)
-	print(find_match)
-	probability = bf.find_probability(find_match)
+	find_match, probability = bf.run_simulations(num)
+	print(probability)
 
 	# display simulation results
 	print("Out of 100,000 simulations of " + str(len(birthdays)) + " people, there was a")
@@ -53,6 +52,12 @@ This program does a Monte Carlo simulation (that is, repeated random simulations
 	print("that " + str(len(birthdays)) + " people have a " + str(probability) + " % chance of" )
 	print("having a matching birthday in their group.")
 	print("That's probably more than you would think!")
-  
-  
+
+
+
+
+if __name__ == "__main__":
+	main()
+
+	
   
