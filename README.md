@@ -30,6 +30,8 @@ This book contains 81 small python peojects, I'm including my version here for p
 
 project 1 - Bagels (guess random 3-digit number with 10 chances)
 
-project 2- Birthday Paradox (check the percentage of 2 people share the same birthday in different group sizes)
+project 2 - Birthday Paradox (check the percentage of 2 people share the same birthday in different group sizes)
 
-project 3 - BlackJack (the traditional blackjack/21 game)
+Project 3 - Bitmap message (print message in world map pattern)
+
+project 4 - BlackJack (the traditional blackjack/21 game)
